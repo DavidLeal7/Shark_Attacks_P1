@@ -1,0 +1,14 @@
+# Ignor data
+data/
+
+# Checkpoints de notebooks
+**/.ipynb_checkpoints/
+
+# Modelos entrenados
+models/
+*.pkl
+*.joblib
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
